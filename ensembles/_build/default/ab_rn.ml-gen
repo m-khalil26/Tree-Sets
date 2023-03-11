@@ -1,0 +1,6 @@
+(** @canonical Ab_rn.Arbres_intervalles *)
+module Arbres_intervalles = Ab_rn__Arbres_intervalles
+
+
+(** @canonical Ab_rn.Intervalles *)
+module Intervalles = Ab_rn__Intervalles
